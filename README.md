@@ -44,13 +44,15 @@
 - Username Levianthz
 - Initial Name _**GrZ**_ 
 
-### Interested 👀
+### Skills & Interested 👀
 - Front-end Engineer
 - Product Manager / Project Manager
 - Audio Engineering
 - Web Design
 - Community Enthusiast
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LevianthProject&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Metrics](https://metrics.lecoq.io/LevianthProject?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&repositories=1&languages=1&lines=1&notable=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&notable.from=organization&notable.repositories=false&repositories.featured=LevianthProject%2FLumiFanpage&config.timezone=Asia%2FJakarta)

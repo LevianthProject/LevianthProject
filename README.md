@@ -45,8 +45,8 @@
 - My real name **GhazaRiZ**
 
 ### Skills & Interest 👀
-- Front-end Engineer
-- Audio Engineering
+- Front-end Developer
+- Music Producer
 - Product Manager & Project Manager
 - Web Design
 - Community Enthusiast

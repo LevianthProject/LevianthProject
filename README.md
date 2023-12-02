@@ -45,14 +45,11 @@
 - My real name **GhazaRiZ**
 
 ### Skills & Interest 👀
+- Game Designer
+- Community Manager
 - Front-end Developer
 - Music Producer
 - Product Manager & Project Manager
-- Web Design
-- Community Enthusiast
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LevianthProject&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="center">
